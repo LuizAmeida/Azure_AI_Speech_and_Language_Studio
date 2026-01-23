@@ -1,0 +1,1 @@
+"Neste laboratório, o áudio processado consistiu em uma gravação curta de 30 segundos em formato .wav, focada em testar a clareza da conversão Speech-to-Text para termos técnicos de programação."
