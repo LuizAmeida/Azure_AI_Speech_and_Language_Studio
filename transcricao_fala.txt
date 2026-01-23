@@ -1,1 +1,0 @@
-"Este é um exemplo de texto convertido a partir de um áudio utilizando o Azure Speech Studio."
