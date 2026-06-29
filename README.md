@@ -44,4 +44,4 @@ Como analista de dados, a integração dessas ferramentas permite transformar da
 ---
 
 ## 👤 Autor
-**Luiz Marques** – Programador e Analista de Dados.
+**Luiz Marques** – Analista de Dados.
